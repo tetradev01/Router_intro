@@ -1,11 +1,11 @@
 # Projectroute
 Go to Project Directory and launch cmd.
 to install dependencies
-type >>>npm install
+type: npm install
 and run
 
 to serve the App on localhost
-type >>> ng serve 
+type: ng serve 
 and run
 
 
