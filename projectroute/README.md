@@ -5,9 +5,8 @@ type >>>npm install
 and run
 
 to serve the App on localhost
-type >>> ng serveand run
-
-
+type >>> ng serve 
+and run
 
 
 
